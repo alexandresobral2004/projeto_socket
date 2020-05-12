@@ -41,6 +41,7 @@ public class Client {
          EnviaTexto mievento = new EnviaTexto();
          miboton.addActionListener(mievento);
          add(miboton);
+         System.out.println("testando git");
      }
   private class EnviaTexto implements ActionListener{
      

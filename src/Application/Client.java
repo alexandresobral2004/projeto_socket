@@ -14,6 +14,7 @@ public class Client {
 
          System.out.println("TESTE git");
          System.out.println("Segundo Commit");
+         System.out.println("Terceiro Commit");
          MarcoCliente mimarco = new MarcoCliente();
          mimarco.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
      }
